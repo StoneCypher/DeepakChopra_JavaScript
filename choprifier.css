@@ -1,0 +1,6 @@
+#picd { position: fixed; top: 2em; left: 2em; bottom: 2em; }
+#pic  { height: 100%; }
+#txtd { position: fixed; top: 2em; right: 2em; text-align: right; width: 50%; }
+#txt  { font-size: 666%; font-family: sans-serif; }
+#quot { font-size: 420%; font-family: sans-serif; font-style: italic; color: #999; margin-top: 1em; }
+#baby { position: fixed; right: 2em; bottom: 2em; display: block; padding: 1em 2em; }
