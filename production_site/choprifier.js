@@ -17,6 +17,8 @@ var Data = {
     "Mechanistic reaction ", 
     "Semiotic involvement ", 
     "Quantum physics "
+    "Cerebrolinguistics "
+    "Dubstep as a metaphor for liberty "
   ],
 
   middles : [
@@ -29,6 +31,9 @@ var Data = {
     "conglomerates ", 
     "gives meaning to ", 
     "displays ", 
+    "permeates ", 
+    "sanctifies via ", 
+    "trivializes ", 
     "justifies with ", 
     "builds, using ", 
     "teaches through ", 
@@ -46,6 +51,11 @@ var Data = {
     "epistemological ", 
     "synchronistic ", 
     "timely ", 
+    "geopolitical ", 
+    "popular ", 
+    "media driven ", 
+    "global ", 
+    "local ", 
     "world regarding ", 
     "provably optimal ", 
     "potential "
@@ -63,6 +73,10 @@ var Data = {
     "generosity.", 
     "togetherness.", 
     "voluminous reaction.", 
+    "joyous revelation.", 
+    "stimulation.", 
+    "numbing.", 
+    "intuition.", 
     "actions."
   ]
 
