@@ -17,4 +17,4 @@ Nonsense generator, like the man.
 Polemic :neckbeard:
 -------------------
 
-`htstub` is MIT licensed, because viral licenses and newspeak language modification are evil.  Free is ***only*** free when it's free for everyone.
+`Deepak Chopra` is MIT licensed, because viral licenses and newspeak language modification are evil.  Free is ***only*** free when it's free for everyone.
