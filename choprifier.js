@@ -1,3 +1,9 @@
+
+// This is the simplified, fun version.
+//
+// If you want to add strings to the site http://choprifier.com/ , please go into /production/ and
+// edit that .js instead.  This one is not going to change.
+
 var Data = {
 
   starts     : ["Experiential truth ", "The physical world ", "Non-judgment ", "Quantum physics "],
