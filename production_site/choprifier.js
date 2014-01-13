@@ -51,6 +51,7 @@ var Data = {
   
   qualifiers : [
     "abundance of ",
+    "ostentatious",
     "the barrier of ",
     "self-righteous ",
     "species specific ",
