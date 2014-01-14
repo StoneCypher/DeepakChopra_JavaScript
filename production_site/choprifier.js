@@ -59,6 +59,7 @@ var Data = {
     "epistemological ",
     "synchronistic ",
     "timely ",
+    "expedient",
     "ontogenous ",
     "geopolitical ",
     "popular ",
