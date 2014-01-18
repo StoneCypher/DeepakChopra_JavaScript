@@ -66,6 +66,8 @@ var Data = {
     "ontogenous ",
     "geopolitical ",
     "popular ",
+    "advocatory ",
+    "pluripotentialistic" ,
     "media driven ",
     "global ",
     "local ",
