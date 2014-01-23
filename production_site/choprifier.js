@@ -10,7 +10,7 @@ var Data = {
     "Totality ",
     "Social science ",
     "Rambunctious cause ",
-    "Multitudinality",
+    "Multitudinality ",
     "Nascent luminence ",
     "True randomness ",
     "Deconstrutionist wisdom ",
@@ -57,7 +57,7 @@ var Data = {
   
   qualifiers : [
     "abundance of ",
-    "ostentatious",
+    "ostentatious ",
     "the barrier of ",
     "self-righteous ",
     "species specific ",
@@ -75,7 +75,7 @@ var Data = {
     "bounded ",
     "unbounded ",
     "trans-boundary ",
-    "expedient",
+    "expedient ",
     "ontogenous ",
     "geopolitical ",
     "popular ",
