@@ -8,7 +8,7 @@ var Data = {
     "Unity ",
     "Good health ",
     "A clean brain ",
-    "Flexible thought patterns ",
+    "A flexible thought pattern ",
     "Insightful visage ",
     "Mindfulness in action ",
     "Totality ",
