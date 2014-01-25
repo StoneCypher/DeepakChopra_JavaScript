@@ -12,6 +12,7 @@ var Data = {
     "Insightful visage ",
     "Mindfulness in action ",
     "Totality ",
+    "Insoucinace ",
     "Dynamic mutative creation ",
     "The graspably non-considerable ",
     "Social science ",
