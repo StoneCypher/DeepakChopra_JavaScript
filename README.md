@@ -20,6 +20,8 @@ What the hell?
 
 Nonsense generator, like the man.
 
+Seriously, it's just for fun.
+
 
 
 Polemic :neckbeard:
