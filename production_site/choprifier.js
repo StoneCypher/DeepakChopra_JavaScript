@@ -12,6 +12,7 @@ var Data = {
     "A flexible thought pattern ",
     "Insightful visage ",
     "Mindfulness in action ",
+    "Compassion ",
     "Totality ",
     "Insoucinace ",
     "Dynamic mutative creation ",
