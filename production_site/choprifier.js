@@ -13,6 +13,7 @@ var Data = {
     "Insightful visage ",
     "Mindfulness in action ",
     "Compassion ",
+    "Altruism ",
     "Totality ",
     "Insoucinace ",
     "Dynamic mutative creation ",
