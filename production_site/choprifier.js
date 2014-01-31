@@ -4,6 +4,7 @@ var Data = {
     "Experiential truth ",
     "The physical world ",
     "Non-judgment ",
+    "Parsimony ",
     "Infinity ",
     "Prosody ",
     "Unity ",
