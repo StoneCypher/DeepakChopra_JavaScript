@@ -53,6 +53,7 @@ var Data = {
     "clarifies ",
     "asceticizes ",
     "recapitulates ",
+    "satisfies ",
     "sanctifies via ",
     "trivializes ",
     "justifies with ",
