@@ -109,6 +109,7 @@ var Data = {
     "anarchist ",
     "conformist ",
     "erudite ",
+    "miniscule ",
     "Manichean ",
     "Hadrean ",
     "media driven ",
