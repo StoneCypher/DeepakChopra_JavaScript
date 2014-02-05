@@ -11,6 +11,7 @@ var Data = {
     "Unity ",
     "Good health ",
     "A clean brain ",
+    "Entreaty ",
     "Brusque temperment ",
     "A flexible thought pattern ",
     "Insightful visage ",
