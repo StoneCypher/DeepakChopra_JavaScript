@@ -11,6 +11,7 @@ var Data = {
     "Prosody ",
     "Unity ",
     "Good health ",
+    "A quantum leap ",    // thanks Francis Veilleux-Gaboury
     "A clean brain ",
     "Entreaty ",
     "Brusque temperment ",
