@@ -6,6 +6,7 @@ var Data = {
     "The physical world ",
     "Non-judgment ",
     "Parsimony ",
+    "Clarity ",
     "Infinity ",
     "Calamity ",
     "Prosody ",
