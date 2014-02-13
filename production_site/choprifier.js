@@ -19,6 +19,7 @@ var Data = {
     "A flexible thought pattern ",
     "Insightful visage ",
     "Mindfulness in action ",
+    "Automated translation ",
     "Facebook ",
     "Compassion ",
     "Altruism ",
