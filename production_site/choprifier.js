@@ -7,6 +7,7 @@ var Data = {
     "Non-judgment ",
     "Parsimony ",
     "Clarity ",
+    "Apostasy ",
     "Infinity ",
     "Calamity ",
     "Prosody ",
