@@ -12,6 +12,7 @@ var Data = {
     "Calamity ",
     "Honesty ",
     "Prosody ",
+    "Selectivity ",
     "Unity ",
     "Good health ",
     "A quantum leap ",    // thanks Francis Veilleux-Gaboury
