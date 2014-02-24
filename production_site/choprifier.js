@@ -175,6 +175,7 @@ var Data = {
     "asceticism.",
     "truism.",
     "monopoly.",
+    "temerity.",
     "monosophism.",
     "polyarchy.",
     "togetherness.",
