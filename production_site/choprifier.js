@@ -14,6 +14,7 @@ var Data = {
     "Honesty ",
     "Temporal quaquaversality ",
     "Prosody ",
+    "Calamity ",
     "Selectivity ",
     "Unity ",
     "Good health ",
