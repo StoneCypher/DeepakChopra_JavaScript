@@ -57,6 +57,7 @@ var Data = {
   middles : [
     "nurtures ",
     "unifies ",
+    "stymies ",
     "separates ",
     "distributes widely ",
     "appreciates ",
