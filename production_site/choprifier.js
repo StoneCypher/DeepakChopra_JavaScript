@@ -8,6 +8,7 @@ var Data = {
     "Non-judgment ",
     "Parsimony ",
     "Clarity ",
+    "Heterodoxity ",
     "Erudition ",
     "Primacy ",
     "Apostasy ",
