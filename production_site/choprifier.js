@@ -35,6 +35,7 @@ var Data = {
     "Compassion ",
     "Altruism ",
     "Totality ",
+    "Rhetorical training ",
     "Insoucinace ",
     "Dynamic mutative creation ",
     "The graspably non-considerable ",
