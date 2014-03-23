@@ -20,7 +20,6 @@ var Data = {
     "Temporal quaquaversality ",
     "Derrida ",
     "Prosody ",
-    "Calamity ",
     "Selectivity ",
     "Unity ",
     "Good health ",
