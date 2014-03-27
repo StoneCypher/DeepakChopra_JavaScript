@@ -8,6 +8,7 @@ var Data = {
     "The physical world ",
     "Non-judgment ",
     "Parsimony ",
+    "Salacity ",
     "Clarity ",
     "Heterodoxity ",
     "Erudition ",
