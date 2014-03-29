@@ -11,6 +11,7 @@ var Data = {
     "Parsimony ",
     "Salacity ",
     "Clarity ",
+    "Antagonism ",
     "Heterodoxity ",
     "Erudition ",
     "Primacy ",
