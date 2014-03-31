@@ -93,6 +93,7 @@ var Data = {
     "explores ",
     "dissociates from within ",
     "exposes ",
+    "masticates ",
     "builds, using ",
     "teaches through ",
     "projects onto ",
