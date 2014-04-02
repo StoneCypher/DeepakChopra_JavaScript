@@ -18,6 +18,7 @@ var Data = {
     "Apostasy ",
     "Infinity ",
     "Calamity ",
+    "Loquacity ",
     "Honesty ",
     "Cosmology ",
     "Aperture science ",
