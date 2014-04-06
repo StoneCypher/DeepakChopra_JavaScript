@@ -17,6 +17,7 @@ var Data = {
     "Primacy ",
     "Apostasy ",
     "Infinity ",
+    "Rubric ",
     "Calamity ",
     "Loquacity ",
     "Honesty ",
