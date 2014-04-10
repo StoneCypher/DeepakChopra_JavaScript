@@ -15,6 +15,7 @@ var Data = {
     "Heterodoxity ",
     "Erudition ",
     "Primacy ",
+    "Amelioration ",
     "Apostasy ",
     "Reprobacy ",
     "Infinity ",
