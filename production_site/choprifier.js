@@ -201,6 +201,7 @@ var Data = {
     "truism.",
     "monopoly.",
     "temerity.",
+    "neo-Platonism."
     "monosophism.",
     "polyarchy.",
     "togetherness.",
