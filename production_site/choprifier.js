@@ -131,6 +131,7 @@ var Data = {
     "trans-boundary ",
     "expedient ",
     "ontogenous ",
+    "serendipitous ",
     "geopolitical ",
     "popular ",
     "advocatory ",
