@@ -160,7 +160,8 @@ var Data = {
     "supra-",
     "world regarding ",
     "provably optimal ",
-    "potential "
+    "potential ",
+    "munctional "
   ],
   
   finishes : [
