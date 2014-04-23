@@ -14,6 +14,7 @@ var Data = {
     "Antagonism ",
     "Heterodoxity ",
     "Erudition ",
+    "Remuneration ",
     "Primacy ",
     "Amelioration ",
     "Apostasy ",
