@@ -142,6 +142,7 @@ var Data = {
     "rhythmatic ",
     "dimensional ",
     "sophist ",
+    "Etruscan ",
     "reliquary ",
     "escapist ",
     "anarchist ",
