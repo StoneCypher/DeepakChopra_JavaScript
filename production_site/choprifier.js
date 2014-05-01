@@ -94,6 +94,7 @@ var Data = {
     "trivializes ",
     "justifies with ",
     "rarifies ",
+    "enjoins ",
     "codifies ",
     "socializes by way of ",
     "reclaims ",
