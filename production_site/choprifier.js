@@ -214,6 +214,7 @@ var Data = {
     "plurality.",
     "asceticism.",
     "truism.",
+    "horizontal scaling.",
     "monopoly.",
     "temerity.",
     "neo-Platonism."
