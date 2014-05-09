@@ -158,6 +158,7 @@ var Data = {
     "erudite ",
     "epistemic ",
     "cromulent ",
+    "poker faced ",
     "miniscule ",
     "Manichean ",
     "Hadrean ",
