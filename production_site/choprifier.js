@@ -90,6 +90,7 @@ var Data = {
     "projects ",
     "permeates ",
     "clarifies ",
+    "macerates ",
     "asceticizes ",
     "recapitulates ",
     "satisfies ",
