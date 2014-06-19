@@ -21,6 +21,7 @@ var Data = {
     "Antagonism ",
     "Heterodoxity ",
     "Erudition ",
+    "Amalgamation ",
     "Remuneration ",
     "Primacy ",
     "The empty set ",
