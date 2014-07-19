@@ -4,6 +4,7 @@ var Data = {
     "Experiential truth ",
     "Coffee ",
     "Geopolitics ",
+    "Glory ",
     "Espresso ",
     "Absinthe ",
     "Autosomy ",
