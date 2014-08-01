@@ -7,6 +7,7 @@ var Data = {
     "Javascript ",
     "Glory ",
     "Espresso ",
+    "Heuristic thought ",
     "Absinthe ",
     "Irradiation ",
     "Autosomy ",
