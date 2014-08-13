@@ -11,6 +11,7 @@ var Data = {
     "Absinthe ",
     "Surrogate birth ",
     "Irradiation ",
+    "Solar radiation ",
     "Autosomy ",
     "Practical economics ",
     "Dental plaque ",
