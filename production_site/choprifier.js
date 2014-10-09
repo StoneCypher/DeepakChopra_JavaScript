@@ -10,6 +10,7 @@ var Data = {
     "Heuristic thought ",
     "Absinthe ",
     "Surrogate birth ",
+    "Rishathra ",
     "Irradiation ",
     "Solar radiation ",
     "Autosomy ",
