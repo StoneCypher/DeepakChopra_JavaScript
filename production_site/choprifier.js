@@ -12,6 +12,7 @@ var Data = {
     "Surrogate birth ",
     "Rishathra ",
     "Irradiation ",
+    "Megalomania ",
     "Solar radiation ",
     "Autosomy ",
     "Practical economics ",
