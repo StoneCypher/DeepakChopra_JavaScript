@@ -119,6 +119,7 @@ var Data = {
     "enjoins ",
     "codifies ",
     "socializes by way of ",
+    "promulgates ",
     "reclaims ",
     "disintegrates ",
     "integrates ",
