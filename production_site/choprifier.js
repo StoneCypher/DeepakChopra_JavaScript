@@ -107,6 +107,7 @@ var Data = {
     "displays ",
     "projects ",
     "permeates ",
+    "eviscerates ",
     "clarifies ",
     "macerates ",
     "asceticizes ",
