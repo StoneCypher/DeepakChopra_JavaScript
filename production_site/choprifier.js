@@ -127,6 +127,7 @@ var Data = {
     "reduces ",
     "explores ",
     "dissociates from within ",
+    "cosequences ",
     "exposes ",
     "masticates ",
     "builds, using ",
