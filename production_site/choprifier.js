@@ -124,6 +124,7 @@ var Data = {
     "reclaims ",
     "disintegrates ",
     "integrates ",
+    "racemizes ",
     "reduces ",
     "explores ",
     "dissociates from within ",
