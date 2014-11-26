@@ -146,6 +146,7 @@ var Data = {
     "teaches through ",
     "projects onto ",
     "imparts reality to ",
+    "colloquializes ",
     "constructs with "
   ],
 
