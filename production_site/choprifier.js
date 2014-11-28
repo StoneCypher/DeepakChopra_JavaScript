@@ -148,6 +148,7 @@ var Data = {
     "imparts reality to ",
     "colloquializes ",
     "loftializes ",
+    "enriches ",
     "constructs with "
   ],
 
