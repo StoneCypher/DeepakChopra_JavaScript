@@ -149,6 +149,7 @@ var Data = {
     "colloquializes ",
     "loftializes ",
     "enriches ",
+    "substratifies ",
     "constructs with "
   ],
 
