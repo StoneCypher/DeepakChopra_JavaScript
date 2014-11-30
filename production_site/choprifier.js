@@ -151,6 +151,7 @@ var Data = {
     "enriches ",
     "substratifies ",
     "loathes thoroughly ",
+    "abrogates ",
     "constructs with "
   ],
 
