@@ -12,6 +12,7 @@ var Data = {
     "Cave dwelling ",
     "Autonomous solace ",
     "Equestrian ",
+    "Salacilic ",
     "Glitch Mob ",
     "Surrogate birth ",
     "Scurrilous ",
