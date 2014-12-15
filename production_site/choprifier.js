@@ -120,6 +120,7 @@ var Data = {
     "justifies with ",
     "rarifies ",
     "enjoins ",
+    "desensitizes ",
     "codifies ",
     "socializes by way of ",
     "promulgates ",
