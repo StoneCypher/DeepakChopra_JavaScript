@@ -219,6 +219,7 @@ var Data = {
     "post-logic.",
     "escapism.",
     "criarchy.",
+    "mulliganism."
     "permaculture.",
     "platitudinality.",
     "creosophy.",
