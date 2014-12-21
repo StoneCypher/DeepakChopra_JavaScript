@@ -232,6 +232,7 @@ var Data = {
     "mental rigor.",
     "spiritual fortitude.",
     "wisdom.",
+    "rapture.",
     "secret genius.",
     "inner brilliance.",
     "unseen internal gift.",
