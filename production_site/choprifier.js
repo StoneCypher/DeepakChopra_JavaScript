@@ -144,6 +144,7 @@ var Data = {
   qualifiers : [
     "abundance of ",
     "ostentatious ",
+    "skedastic ",
     "the barrier of ",
     "self-righteous ",
     "collective ",
